@@ -1,4 +1,4 @@
-# 🛡️ Discord HypeSquad Tool
+# Discord HypeSquad Tool
 
 ## ⚙️ طريقة الاستخدام
 
@@ -27,7 +27,7 @@
 
 <br>
 
-# 🛡️ Discord HypeSquad Tool (English)
+# Discord HypeSquad Tool (English)
 
 ## ⚙️ How to Use
 
